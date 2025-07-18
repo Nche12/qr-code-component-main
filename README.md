@@ -24,14 +24,14 @@ My first design from the FronEnd mentor platform
 
 ### Screenshot
 
-![](./product-design/desktop-view%20-%20qr%20code%20design.png)
-![](./product-design/mobile-view-qr%20code%20design.png)
+![Desktop View](./product-design/desktop-view%20-%20qr%20code%20design.png)
+![Mobile View](./product-design/mobile-view-qr%20code%20design.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nche12/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://nche12.github.io/qr-code-component-main/)
+- Solution URL: [Project Github Repository](https://github.com/Nche12/qr-code-component-main)
+- Live Site URL: [Project Live Site](https://nche12.github.io/qr-code-component-main/)
 
 ## My process
 
