@@ -34,12 +34,12 @@ body {
 }
 
 .wrapper {
-  --b-radius: 1.25rem;
+  --b-radius: 0.8rem;
 
   background-color: var(--clr-primary);
-  padding: 1.25rem;
+  padding: 0.8rem;
   border-radius: var(--b-radius);
-  max-width: 25rem;
+  max-width: 17rem;
   width: 100%;
 }
 
@@ -55,11 +55,11 @@ img {
 }
 
 .title {
+  font-size: 1.35rem;
   color: var(--clr-neutral-900);
   text-align: center;
 }
 
 p {
-  font-size: 1.35rem;
   font-weight: var(--fw-regular);
 }
